@@ -1,6 +1,6 @@
 # Door Lock System Prototype
 
-An IoT prototype project using Arduino Uno and NodeMCU ESP8266 with MySQL Database.
+An IoT prototype project using Arduino Uno and NodeMCU ESP8266 with MySQL Database and PHP localhost website.
 
 ## Hardware
 * Arduino Uno R3
