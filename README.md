@@ -11,7 +11,7 @@ An IoT prototype project using Arduino Uno and NodeMCU ESP8266 with MySQL Databa
 * Micro Servo SG90
 * LCD1602
 * 12V Power Adapter (For Arduino Uno)
-* Server
+* Laptop or Computer (For Server)
 
 ## Software
 * XAMPP
