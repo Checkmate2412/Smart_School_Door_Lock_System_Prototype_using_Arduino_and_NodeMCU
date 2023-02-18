@@ -5,7 +5,8 @@
 An IoT prototype project using Arduino Uno and NodeMCU ESP8266 with MySQL Database and PHP localhost website.\
 This project was made from April to May 2021.
 
-## Hardware
+## Technology Stack
+### Hardware
 * Arduino Uno R3
 * NodeMCU ESP8266
 * NodeMCU ESP8266 Expansion Base Board (For 5V)
@@ -17,8 +18,11 @@ This project was made from April to May 2021.
 * 12V Power Adapter (For Arduino Uno R3)
 * Laptop or Computer (For Server)
 
-## Software
+### Software
 * XAMPP
+* Arduino IDE (C++)
+* PHP
+* MySQL
 
 ## Connections
 #### Connect the NodeMCU8266 and its Expansion Base Board first.
