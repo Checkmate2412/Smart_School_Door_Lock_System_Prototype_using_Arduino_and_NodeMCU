@@ -24,7 +24,7 @@ This project was made from April to May 2021.
 * PHP
 * MySQL
 
-## Connections
+## Hardware Connection
 #### Connect the NodeMCU8266 and its Expansion Base Board first.
 
 | Arduino Uno R3 | NodeMCU ESP8266 |   
@@ -69,12 +69,15 @@ This project was made from April to May 2021.
 | D8 | GND |
 | 5V | VCC |
 
-## Pinouts
+## Pinout
 <p align="center">
 <img alt="Arduino Uno R3" width="600" src="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png">
 <img alt="NodeMCU ESP8266" width="600" src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.png?quality=100&strip=all&ssl=1">
 <img alt="NodeMCU ESP8266 Expansion Base Board" width="600" src="https://store.roboticsbd.com/img/cms/1402.PNG">
 </p>
+
+## Note
+* The system has not been fully completed due to competing priorities with school work.
 
 ## External Libraries
 * MFRC522 - https://github.com/miguelbalboa/rfid
