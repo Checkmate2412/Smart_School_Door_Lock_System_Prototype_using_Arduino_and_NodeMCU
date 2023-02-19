@@ -2,7 +2,7 @@
 
 # Smart School Door Lock System Prototype using Arduino and NodeMCU
 
-This is a smart school door lock system prototype that uses Arduino Uno and NodeMCU ESP8266, along with a MySQL database and a local PHP website. It aims to track the time-in and time-out records of students in the school..
+This is a smart school door lock system prototype that uses Arduino Uno and NodeMCU ESP8266, along with a MySQL database and a local PHP website. It aims to track the time-in and time-out records of students in the school.\
 \
 This project was made from **April to May 2021**.
 
