@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://camo.githubusercontent.com/41b4407c394c2bd65aa1f4199f5ce149017b80e314e1207a505c26e9f8f677c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d646973636f6e74696e7565642d7265642e737667" alt="discontinued" /> </p>
 
-# IoT Door Security Prototype
+# Smart School Door Lock System Prototype using Arduino and NodeMCU
 
-This is a prototype IoT project that utilizes an Arduino Uno and NodeMCU ESP8266, along with a MySQL database and a local PHP website, to create a door lock system.\
+This is a smart school door lock system prototype that uses Arduino Uno and NodeMCU ESP8266, along with a MySQL database and a local PHP website. It aims to track the time-in and time-out records of students in the school..
 \
 This project was made from **April to May 2021**.
 
