@@ -1,9 +1,10 @@
 <p align="left"> <img src="https://camo.githubusercontent.com/41b4407c394c2bd65aa1f4199f5ce149017b80e314e1207a505c26e9f8f677c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d646973636f6e74696e7565642d7265642e737667" alt="discontinued" /> </p>
 
-# Door Lock System Prototype
+# IoT Door Security Prototype
 
-An IoT prototype project using Arduino Uno and NodeMCU ESP8266 with MySQL Database and PHP localhost website.\
-This project was made from April to May 2021.
+This is a prototype IoT project that utilizes an Arduino Uno and NodeMCU ESP8266, along with a MySQL database and a local PHP website, to create a door lock system.\
+\
+This project was made from **April to May 2021**.
 
 ## Technology Stack
 ### Hardware
